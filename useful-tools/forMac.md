@@ -3,6 +3,9 @@
 ## mac上常用homebrew进行包管理
 - [homebrew](https://brew.sh/)
 
+## 一份已经打包好的zsh配置(含fzf，fzftab等)
+- [zsh4huamn](https://github.com/romkatv/zsh4humans)
+
 ### 常用的tool 
 - tmux (附一份朋友自用的tmux conf)
 - xclip
