@@ -7,7 +7,7 @@
 - [zsh4huamn](https://github.com/romkatv/zsh4humans)
 
 ### 常用的tool 
-- tmux (附一份朋友自用的tmux conf)
+- tmux (附一份朋友自用的tmux conf，需要设置终端preference中开启option键作为meta键)
 - xclip
 - fzf
 - fzf-tab (可以用tab补全一些command flag，比较好用)
