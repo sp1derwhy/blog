@@ -16,3 +16,11 @@
 - zsh-autosuggestions (由于和fzf-tab有冲突，不用)
 - zsh-syntax-highlighting
 - powerlevel10k (好用的zsh theme,可以配合安装一些别的插件，在github项目中有，照着安装就行)
+- obsidian 笔记软件
+- obsidian插件
+	- admonition
+	- enhancing mindmap
+	- mind map
+	- media extended
+	- media extended biliibili plugin
+	- outliner
