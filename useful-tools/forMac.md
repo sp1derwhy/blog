@@ -24,3 +24,4 @@
 	- media extended
 	- media extended biliibili plugin
 	- outliner
+- 简阅 simpread 方便阅读的插件
