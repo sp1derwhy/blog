@@ -25,3 +25,4 @@
 	- media extended biliibili plugin
 	- outliner
 - 简阅 simpread 方便阅读的插件
+- stow 方便管理dotfiles
