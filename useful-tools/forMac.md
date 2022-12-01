@@ -7,15 +7,6 @@
 - [zsh4huamn](https://github.com/romkatv/zsh4humans)
 
 ### 常用的tool 
-- tmux (附一份朋友自用的tmux conf，需要设置终端preference中开启option键作为meta键)
-- xclip
-- fzf
-- fzf-tab (可以用tab补全一些command flag，比较好用)
-- navi (可以配合cheatsh wget fzf 一起使用，方便查询常用命令)
-- htop
-- zsh-autosuggestions (由于和fzf-tab有冲突，不用)
-- zsh-syntax-highlighting
-- powerlevel10k (好用的zsh theme,可以配合安装一些别的插件，在github项目中有，照着安装就行)
 - obsidian 笔记软件
 - obsidian插件
 	- admonition
@@ -24,5 +15,21 @@
 	- media extended
 	- media extended biliibili plugin
 	- outliner
-- 简阅 simpread 方便阅读的插件
-- stow 方便管理dotfiles
+- 简阅 simpread 方便阅读的插件（chrome）
+- wireshark
+
+### brew安装的工具包
+- broot 类似于tree更智能化
+- zsh-autosuggestions
+- zsh-fast-syntax-highlighting
+- fzf
+- fzf-tab 需要加 autoload complint && complint 在其zshrc中source之前
+- graphviz 通过go自带的pprof，可以绘出火焰图方便性能分析
+- htop
+- powerlevel10k
+- tmux
+- stow 管理dotfiles
+- tldr 简约的man手册
+- shellcheck 检查shell脚本
+- golangci-lint go的lint工具
+- navi (类似于cheatsheet)
