@@ -33,3 +33,12 @@
 - shellcheck 检查shell脚本
 - golangci-lint go的lint工具
 - navi (类似于cheatsheet)
+
+### vim 插件
+> 创建 ~/.vim/pack/vendor/start/ 目录，直接在该目录下git clone对应库就能用(vim 8.0版本后)
+- surround.vim
+
+### tmux 复制粘贴的技巧
+1. ctrl+a [            // 这边改过的配置替换ctrl为command
+2. 然后鼠标拖动选中内容 
+3. ctrl+a ]  会将内容复制到当前命令行,以及剪切板 
